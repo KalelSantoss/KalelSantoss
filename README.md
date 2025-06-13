@@ -14,7 +14,7 @@
 <br>
 <br>
 
-## 🚀Tecnologias em prática:
+## 🚀Tecnologias:
 
 <div align="center" dir="auto">
     <img align="center" alt="Kalel-PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  />
