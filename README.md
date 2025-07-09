@@ -2,7 +2,7 @@
 
 ## Perfil 🚶:
 - 🧑🏼 Muito prazer, me chamo Kalel Santos;
-- 📫 Atualmente busco desenvolver meus conhecimentos com novas tecnologias e aplicando-as em projetos;
+- 📫 Atualmente evoluindo meus conhecimentos em linguagens de programação e aplicando-as em projetos;
 - 🎓 Estudando Engenharia de Software pela Universidade Estácio de Sá - Fortaleza CE;
 <br>
 <div>
